@@ -1,5 +1,5 @@
 import Popover from './popover';
 
-window.addEventListner('DOMContentLoaded', () => {
+window.addEventListener('DOMContentLoaded', () => {
   new Popover();
 });
